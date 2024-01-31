@@ -1,9 +1,9 @@
 package RoomPainter;
 
 public class Room {
-    public String paintTheRoom;
-    public int paintTheRoomInGallons;
-    public double paintTheRoomInQuarts;
+
+
+
     private double length;
     private double width;
     private double height;
@@ -67,4 +67,5 @@ public class Room {
                 ", numberOfWindows=" + numberOfWindows +
                 ", numberOfDoors=" + numberOfDoors +
                 '}';
-    }}
+    }
+}
